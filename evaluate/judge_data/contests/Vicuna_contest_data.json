@@ -1,0 +1,3644 @@
+[
+    {
+        "first": "Starling",
+        "second": "Snorkel",
+        "question": 18,
+        "winner": "Starling"
+    },
+    {
+        "first": "Gemma",
+        "second": "Llama3",
+        "question": 2,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Starling",
+        "question": 6,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Gemma",
+        "second": "Qwen",
+        "question": 1,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Gemma",
+        "second": "Mistral",
+        "question": 7,
+        "winner": "Gemma"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Gemma",
+        "question": 18,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Llama3",
+        "second": "Zephyr",
+        "question": 8,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Mistral",
+        "second": "Zephyr",
+        "question": 18,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Starling",
+        "second": "Llama3",
+        "question": 1,
+        "winner": "Starling"
+    },
+    {
+        "first": "Qwen",
+        "second": "Starling",
+        "question": 18,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Llama3",
+        "question": 13,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Gemma",
+        "second": "OpenChat",
+        "question": 2,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Vicuna",
+        "question": 8,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Qwen",
+        "second": "Mistral",
+        "question": 13,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Mistral",
+        "second": "Qwen",
+        "question": 2,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Qwen",
+        "second": "StarlingCode",
+        "question": 2,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Starling",
+        "second": "OpenChat",
+        "question": 7,
+        "winner": "Starling"
+    },
+    {
+        "first": "Snorkel",
+        "second": "OpenChat",
+        "question": 2,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Starling",
+        "second": "Gemma",
+        "question": 5,
+        "winner": "Starling"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Starling",
+        "question": 7,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Starling",
+        "question": 8,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Qwen",
+        "second": "Snorkel",
+        "question": 5,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Qwen",
+        "second": "OpenChat",
+        "question": 18,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Starling",
+        "second": "Vicuna",
+        "question": 2,
+        "winner": "Starling"
+    },
+    {
+        "first": "Starling",
+        "second": "Mistral",
+        "question": 18,
+        "winner": "Starling"
+    },
+    {
+        "first": "Gemma",
+        "second": "Qwen",
+        "question": 13,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Qwen",
+        "question": 13,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Snorkel",
+        "second": "StarlingCode",
+        "question": 18,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Qwen",
+        "second": "Gemma",
+        "question": 18,
+        "winner": "Gemma"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Snorkel",
+        "question": 8,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Vicuna",
+        "question": 6,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Llama3",
+        "question": 1,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Llama3",
+        "second": "Vicuna",
+        "question": 5,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Llama3",
+        "second": "Qwen",
+        "question": 5,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Llama3",
+        "second": "OpenChat",
+        "question": 2,
+        "winner": "Llama3"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Starling",
+        "question": 1,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Gemma",
+        "second": "Starling",
+        "question": 13,
+        "winner": "Starling"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Gemma",
+        "question": 13,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Qwen",
+        "second": "Vicuna",
+        "question": 8,
+        "winner": "Qwen"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "OpenChat",
+        "question": 8,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Starling",
+        "second": "Llama3",
+        "question": 13,
+        "winner": "Llama3"
+    },
+    {
+        "first": "OpenChat",
+        "second": "StarlingCode",
+        "question": 5,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Gemma",
+        "second": "OpenChat",
+        "question": 7,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Starling",
+        "second": "Snorkel",
+        "question": 1,
+        "winner": "Starling"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Zephyr",
+        "question": 18,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Gemma",
+        "second": "Vicuna",
+        "question": 13,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Qwen",
+        "second": "Llama3",
+        "question": 5,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Qwen",
+        "second": "StarlingCode",
+        "question": 5,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Qwen",
+        "question": 5,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Llama3",
+        "second": "Zephyr",
+        "question": 1,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Gemma",
+        "question": 3,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Zephyr",
+        "second": "OpenChat",
+        "question": 8,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Mistral",
+        "second": "Vicuna",
+        "question": 1,
+        "winner": "Mistral"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Mistral",
+        "question": 13,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Qwen",
+        "second": "Zephyr",
+        "question": 5,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Starling",
+        "question": 18,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Gemma",
+        "second": "Mistral",
+        "question": 18,
+        "winner": "Mistral"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Gemma",
+        "question": 13,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Starling",
+        "second": "OpenChat",
+        "question": 13,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Gemma",
+        "second": "Snorkel",
+        "question": 9,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Gemma",
+        "second": "Starling",
+        "question": 8,
+        "winner": "Starling"
+    },
+    {
+        "first": "Llama3",
+        "second": "Mistral",
+        "question": 13,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Llama3",
+        "second": "Gemma",
+        "question": 8,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Mistral",
+        "second": "Starling",
+        "question": 7,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Qwen",
+        "second": "Llama3",
+        "question": 13,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Qwen",
+        "second": "Gemma",
+        "question": 2,
+        "winner": "Qwen"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Llama3",
+        "question": 2,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Qwen",
+        "question": 5,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Vicuna",
+        "question": 5,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Gemma",
+        "second": "Vicuna",
+        "question": 18,
+        "winner": "Gemma"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Starling",
+        "question": 1,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Mistral",
+        "second": "StarlingCode",
+        "question": 1,
+        "winner": "Mistral"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Starling",
+        "question": 6,
+        "winner": "Starling"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Zephyr",
+        "question": 1,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Starling",
+        "question": 2,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Snorkel",
+        "question": 18,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Starling",
+        "second": "OpenChat",
+        "question": 6,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Snorkel",
+        "second": "StarlingCode",
+        "question": 13,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Mistral",
+        "question": 8,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Snorkel",
+        "second": "OpenChat",
+        "question": 1,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Qwen",
+        "question": 13,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Vicuna",
+        "question": 2,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Llama3",
+        "second": "Qwen",
+        "question": 13,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Zephyr",
+        "question": 2,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Zephyr",
+        "question": 18,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Gemma",
+        "question": 8,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Mistral",
+        "second": "OpenChat",
+        "question": 5,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Llama3",
+        "second": "Starling",
+        "question": 18,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Qwen",
+        "question": 1,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Mistral",
+        "second": "StarlingCode",
+        "question": 5,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Llama3",
+        "question": 5,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Gemma",
+        "question": 2,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Starling",
+        "second": "Gemma",
+        "question": 7,
+        "winner": "Starling"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Starling",
+        "question": 2,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Starling",
+        "question": 7,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Qwen",
+        "second": "Zephyr",
+        "question": 2,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Qwen",
+        "second": "Snorkel",
+        "question": 18,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Llama3",
+        "second": "StarlingCode",
+        "question": 2,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Gemma",
+        "second": "Snorkel",
+        "question": 5,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Mistral",
+        "second": "OpenChat",
+        "question": 2,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Mistral",
+        "question": 8,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Mistral",
+        "question": 2,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Mistral",
+        "question": 1,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Mistral",
+        "second": "Llama3",
+        "question": 7,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Gemma",
+        "second": "Snorkel",
+        "question": 18,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Zephyr",
+        "question": 2,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Gemma",
+        "second": "StarlingCode",
+        "question": 18,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "OpenChat",
+        "question": 6,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Mistral",
+        "second": "Starling",
+        "question": 2,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Mistral",
+        "question": 2,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Gemma",
+        "second": "Qwen",
+        "question": 18,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Vicuna",
+        "second": "StarlingCode",
+        "question": 2,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Mistral",
+        "question": 18,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Starling",
+        "second": "Snorkel",
+        "question": 7,
+        "winner": "Starling"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Llama3",
+        "question": 13,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "OpenChat",
+        "question": 18,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Starling",
+        "second": "Llama3",
+        "question": 18,
+        "winner": "Starling"
+    },
+    {
+        "first": "Gemma",
+        "second": "Llama3",
+        "question": 13,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Llama3",
+        "second": "OpenChat",
+        "question": 6,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Qwen",
+        "second": "Starling",
+        "question": 5,
+        "winner": "Qwen"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Zephyr",
+        "question": 5,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Llama3",
+        "second": "Vicuna",
+        "question": 1,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Llama3",
+        "second": "Starling",
+        "question": 2,
+        "winner": "Starling"
+    },
+    {
+        "first": "Zephyr",
+        "second": "StarlingCode",
+        "question": 18,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Vicuna",
+        "second": "OpenChat",
+        "question": 6,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Mistral",
+        "question": 2,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Gemma",
+        "second": "Llama3",
+        "question": 1,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Starling",
+        "second": "Llama3",
+        "question": 6,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Vicuna",
+        "second": "OpenChat",
+        "question": 7,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Llama3",
+        "second": "Starling",
+        "question": 13,
+        "winner": "Starling"
+    },
+    {
+        "first": "Llama3",
+        "second": "Qwen",
+        "question": 2,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Gemma",
+        "second": "StarlingCode",
+        "question": 1,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Gemma",
+        "question": 1,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Starling",
+        "second": "Qwen",
+        "question": 8,
+        "winner": "Starling"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Starling",
+        "question": 8,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Mistral",
+        "second": "Gemma",
+        "question": 5,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Llama3",
+        "second": "Mistral",
+        "question": 7,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Qwen",
+        "second": "Snorkel",
+        "question": 2,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Llama3",
+        "second": "StarlingCode",
+        "question": 13,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Starling",
+        "second": "Vicuna",
+        "question": 13,
+        "winner": "Starling"
+    },
+    {
+        "first": "OpenChat",
+        "second": "StarlingCode",
+        "question": 18,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Gemma",
+        "question": 2,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Qwen",
+        "second": "OpenChat",
+        "question": 13,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Gemma",
+        "question": 8,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Gemma",
+        "question": 7,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Gemma",
+        "question": 6,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Qwen",
+        "second": "Snorkel",
+        "question": 8,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Llama3",
+        "second": "Snorkel",
+        "question": 18,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Gemma",
+        "question": 18,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Snorkel",
+        "question": 1,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Llama3",
+        "question": 8,
+        "winner": "Llama3"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Zephyr",
+        "question": 1,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Gemma",
+        "second": "Mistral",
+        "question": 5,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Mistral",
+        "second": "Snorkel",
+        "question": 8,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Qwen",
+        "question": 8,
+        "winner": "None"
+    },
+    {
+        "first": "OpenChat",
+        "second": "StarlingCode",
+        "question": 6,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Gemma",
+        "second": "Zephyr",
+        "question": 1,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Vicuna",
+        "question": 1,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Snorkel",
+        "second": "StarlingCode",
+        "question": 5,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Qwen",
+        "question": 1,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Starling",
+        "second": "Gemma",
+        "question": 6,
+        "winner": "Starling"
+    },
+    {
+        "first": "Starling",
+        "second": "Vicuna",
+        "question": 6,
+        "winner": "Starling"
+    },
+    {
+        "first": "Qwen",
+        "second": "Vicuna",
+        "question": 18,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Zephyr",
+        "question": 8,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Starling",
+        "second": "Snorkel",
+        "question": 8,
+        "winner": "Starling"
+    },
+    {
+        "first": "Gemma",
+        "second": "Zephyr",
+        "question": 2,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Gemma",
+        "second": "StarlingCode",
+        "question": 6,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Mistral",
+        "second": "Snorkel",
+        "question": 2,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Starling",
+        "question": 18,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Vicuna",
+        "question": 1,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Mistral",
+        "question": 13,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Llama3",
+        "question": 2,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Mistral",
+        "second": "Qwen",
+        "question": 5,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Vicuna",
+        "question": 13,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Snorkel",
+        "second": "OpenChat",
+        "question": 8,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Starling",
+        "second": "Snorkel",
+        "question": 2,
+        "winner": "Starling"
+    },
+    {
+        "first": "Mistral",
+        "second": "Snorkel",
+        "question": 7,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Starling",
+        "second": "StarlingCode",
+        "question": 6,
+        "winner": "Starling"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Qwen",
+        "question": 5,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Llama3",
+        "second": "Vicuna",
+        "question": 8,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Qwen",
+        "second": "Llama3",
+        "question": 2,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Starling",
+        "second": "OpenChat",
+        "question": 2,
+        "winner": "Starling"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Gemma",
+        "question": 6,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Vicuna",
+        "question": 18,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Zephyr",
+        "question": 8,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Gemma",
+        "second": "Zephyr",
+        "question": 5,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Gemma",
+        "second": "StarlingCode",
+        "question": 2,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Mistral",
+        "second": "Qwen",
+        "question": 13,
+        "winner": "Mistral"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Snorkel",
+        "question": 18,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Mistral",
+        "second": "Llama3",
+        "question": 2,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Gemma",
+        "question": 8,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Llama3",
+        "question": 18,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Gemma",
+        "question": 13,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Starling",
+        "second": "Zephyr",
+        "question": 8,
+        "winner": "Starling"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Mistral",
+        "question": 1,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Vicuna",
+        "second": "OpenChat",
+        "question": 18,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Mistral",
+        "question": 5,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Gemma",
+        "question": 3,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Mistral",
+        "second": "Gemma",
+        "question": 13,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Gemma",
+        "second": "Vicuna",
+        "question": 6,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Starling",
+        "second": "Vicuna",
+        "question": 7,
+        "winner": "Starling"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Mistral",
+        "question": 18,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Mistral",
+        "second": "Vicuna",
+        "question": 5,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Starling",
+        "question": 8,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Starling",
+        "second": "Mistral",
+        "question": 2,
+        "winner": "Starling"
+    },
+    {
+        "first": "Gemma",
+        "second": "StarlingCode",
+        "question": 8,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Llama3",
+        "question": 5,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Snorkel",
+        "second": "OpenChat",
+        "question": 3,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Llama3",
+        "second": "Zephyr",
+        "question": 18,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Llama3",
+        "second": "Starling",
+        "question": 1,
+        "winner": "Llama3"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Gemma",
+        "question": 5,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Mistral",
+        "second": "Llama3",
+        "question": 18,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Llama3",
+        "second": "Snorkel",
+        "question": 1,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Gemma",
+        "second": "Snorkel",
+        "question": 6,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Llama3",
+        "question": 5,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Llama3",
+        "second": "Qwen",
+        "question": 1,
+        "winner": "Qwen"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Vicuna",
+        "question": 18,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Gemma",
+        "question": 5,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Gemma",
+        "second": "Snorkel",
+        "question": 8,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Qwen",
+        "second": "Zephyr",
+        "question": 8,
+        "winner": "Qwen"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Starling",
+        "question": 18,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Zephyr",
+        "second": "StarlingCode",
+        "question": 8,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Mistral",
+        "second": "Snorkel",
+        "question": 5,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Gemma",
+        "second": "Llama3",
+        "question": 6,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Qwen",
+        "question": 8,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Llama3",
+        "second": "StarlingCode",
+        "question": 6,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Gemma",
+        "second": "OpenChat",
+        "question": 13,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Qwen",
+        "second": "Llama3",
+        "question": 8,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Llama3",
+        "second": "OpenChat",
+        "question": 5,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Qwen",
+        "question": 2,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Mistral",
+        "second": "Snorkel",
+        "question": 18,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Starling",
+        "second": "Gemma",
+        "question": 18,
+        "winner": "Starling"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Qwen",
+        "question": 1,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Snorkel",
+        "question": 8,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Qwen",
+        "second": "Vicuna",
+        "question": 2,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Gemma",
+        "second": "OpenChat",
+        "question": 6,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Llama3",
+        "question": 1,
+        "winner": "Llama3"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Snorkel",
+        "question": 2,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Llama3",
+        "second": "Vicuna",
+        "question": 6,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Llama3",
+        "question": 2,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Mistral",
+        "question": 8,
+        "winner": "Mistral"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Llama3",
+        "question": 18,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Gemma",
+        "second": "Mistral",
+        "question": 13,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Qwen",
+        "question": 18,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Llama3",
+        "question": 2,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Vicuna",
+        "second": "StarlingCode",
+        "question": 6,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Qwen",
+        "question": 7,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Snorkel",
+        "second": "OpenChat",
+        "question": 7,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Zephyr",
+        "question": 7,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Qwen",
+        "question": 5,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Mistral",
+        "second": "Qwen",
+        "question": 18,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Zephyr",
+        "question": 1,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Qwen",
+        "question": 8,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Gemma",
+        "second": "Llama3",
+        "question": 9,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Gemma",
+        "second": "OpenChat",
+        "question": 18,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Mistral",
+        "question": 1,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Llama3",
+        "second": "Qwen",
+        "question": 18,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Mistral",
+        "second": "Gemma",
+        "question": 8,
+        "winner": "Mistral"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Llama3",
+        "question": 2,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Starling",
+        "question": 13,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Qwen",
+        "second": "Starling",
+        "question": 1,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Llama3",
+        "second": "StarlingCode",
+        "question": 18,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Mistral",
+        "question": 13,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Snorkel",
+        "question": 13,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Mistral",
+        "second": "Starling",
+        "question": 18,
+        "winner": "Starling"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Starling",
+        "question": 13,
+        "winner": "Starling"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Gemma",
+        "question": 5,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Gemma",
+        "second": "StarlingCode",
+        "question": 5,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Zephyr",
+        "second": "OpenChat",
+        "question": 2,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Mistral",
+        "second": "Starling",
+        "question": 1,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Gemma",
+        "question": 9,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Mistral",
+        "question": 1,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Qwen",
+        "second": "Mistral",
+        "question": 8,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Llama3",
+        "second": "Gemma",
+        "question": 18,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Qwen",
+        "question": 18,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Starling",
+        "second": "Zephyr",
+        "question": 1,
+        "winner": "Starling"
+    },
+    {
+        "first": "Snorkel",
+        "second": "StarlingCode",
+        "question": 3,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Qwen",
+        "second": "Gemma",
+        "question": 8,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Gemma",
+        "second": "OpenChat",
+        "question": 1,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Gemma",
+        "second": "Mistral",
+        "question": 2,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Starling",
+        "second": "Mistral",
+        "question": 13,
+        "winner": "Starling"
+    },
+    {
+        "first": "Mistral",
+        "second": "OpenChat",
+        "question": 1,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Zephyr",
+        "question": 5,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Llama3",
+        "second": "Vicuna",
+        "question": 2,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Starling",
+        "second": "StarlingCode",
+        "question": 1,
+        "winner": "Starling"
+    },
+    {
+        "first": "Starling",
+        "second": "Zephyr",
+        "question": 18,
+        "winner": "Starling"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Llama3",
+        "question": 3,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Vicuna",
+        "question": 13,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Gemma",
+        "second": "Qwen",
+        "question": 5,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Vicuna",
+        "second": "OpenChat",
+        "question": 1,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Starling",
+        "second": "StarlingCode",
+        "question": 13,
+        "winner": "Starling"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Zephyr",
+        "question": 18,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Starling",
+        "second": "Vicuna",
+        "question": 1,
+        "winner": "Starling"
+    },
+    {
+        "first": "Qwen",
+        "second": "Zephyr",
+        "question": 18,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Llama3",
+        "second": "Starling",
+        "question": 6,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Qwen",
+        "second": "Llama3",
+        "question": 18,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Mistral",
+        "second": "OpenChat",
+        "question": 7,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Mistral",
+        "second": "Llama3",
+        "question": 13,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Llama3",
+        "question": 1,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Mistral",
+        "second": "StarlingCode",
+        "question": 8,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Qwen",
+        "second": "Zephyr",
+        "question": 1,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Starling",
+        "second": "Mistral",
+        "question": 7,
+        "winner": "Starling"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Snorkel",
+        "question": 5,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Vicuna",
+        "second": "StarlingCode",
+        "question": 1,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Snorkel",
+        "question": 1,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Zephyr",
+        "question": 8,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Zephyr",
+        "second": "OpenChat",
+        "question": 18,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "OpenChat",
+        "second": "StarlingCode",
+        "question": 2,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Vicuna",
+        "second": "StarlingCode",
+        "question": 5,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Gemma",
+        "second": "Snorkel",
+        "question": 2,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Vicuna",
+        "second": "OpenChat",
+        "question": 2,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Qwen",
+        "second": "OpenChat",
+        "question": 6,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Starling",
+        "second": "Snorkel",
+        "question": 5,
+        "winner": "Starling"
+    },
+    {
+        "first": "Gemma",
+        "second": "Qwen",
+        "question": 2,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Zephyr",
+        "question": 5,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Starling",
+        "second": "Gemma",
+        "question": 8,
+        "winner": "Starling"
+    },
+    {
+        "first": "Starling",
+        "second": "StarlingCode",
+        "question": 8,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Gemma",
+        "question": 5,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Gemma",
+        "question": 6,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Starling",
+        "question": 18,
+        "winner": "Starling"
+    },
+    {
+        "first": "Llama3",
+        "second": "Qwen",
+        "question": 8,
+        "winner": "Qwen"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Llama3",
+        "question": 7,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Qwen",
+        "question": 8,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Vicuna",
+        "question": 1,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "OpenChat",
+        "second": "StarlingCode",
+        "question": 13,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Llama3",
+        "question": 1,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Starling",
+        "question": 1,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Vicuna",
+        "question": 13,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Qwen",
+        "question": 18,
+        "winner": "Qwen"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Zephyr",
+        "question": 2,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Gemma",
+        "second": "Vicuna",
+        "question": 9,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Mistral",
+        "second": "OpenChat",
+        "question": 18,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Mistral",
+        "second": "Qwen",
+        "question": 1,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Qwen",
+        "second": "Llama3",
+        "question": 1,
+        "winner": "Qwen"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Zephyr",
+        "question": 2,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Gemma",
+        "second": "Vicuna",
+        "question": 8,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Vicuna",
+        "question": 10,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Starling",
+        "second": "Mistral",
+        "question": 8,
+        "winner": "Mistral"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "OpenChat",
+        "question": 13,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Vicuna",
+        "second": "StarlingCode",
+        "question": 18,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Qwen",
+        "second": "Starling",
+        "question": 13,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Zephyr",
+        "second": "OpenChat",
+        "question": 5,
+        "winner": "None"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Mistral",
+        "question": 18,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Qwen",
+        "question": 8,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Starling",
+        "second": "Qwen",
+        "question": 18,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Gemma",
+        "second": "Zephyr",
+        "question": 8,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Gemma",
+        "question": 9,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Vicuna",
+        "question": 6,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Qwen",
+        "question": 2,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Mistral",
+        "question": 5,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Mistral",
+        "question": 5,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Qwen",
+        "question": 1,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Snorkel",
+        "question": 2,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Vicuna",
+        "second": "OpenChat",
+        "question": 13,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Gemma",
+        "question": 2,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Starling",
+        "question": 6,
+        "winner": "Starling"
+    },
+    {
+        "first": "Gemma",
+        "second": "StarlingCode",
+        "question": 3,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Gemma",
+        "question": 7,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Qwen",
+        "second": "OpenChat",
+        "question": 5,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Starling",
+        "second": "Vicuna",
+        "question": 18,
+        "winner": "Starling"
+    },
+    {
+        "first": "Starling",
+        "second": "Gemma",
+        "question": 13,
+        "winner": "Starling"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Llama3",
+        "question": 13,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Llama3",
+        "question": 5,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Qwen",
+        "second": "OpenChat",
+        "question": 1,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Gemma",
+        "second": "Starling",
+        "question": 2,
+        "winner": "Starling"
+    },
+    {
+        "first": "Llama3",
+        "second": "Mistral",
+        "question": 18,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Gemma",
+        "second": "Llama3",
+        "question": 5,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Gemma",
+        "second": "OpenChat",
+        "question": 8,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Snorkel",
+        "question": 6,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Qwen",
+        "second": "Vicuna",
+        "question": 5,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Qwen",
+        "second": "Gemma",
+        "question": 13,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Gemma",
+        "second": "Mistral",
+        "question": 8,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Snorkel",
+        "second": "OpenChat",
+        "question": 13,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Mistral",
+        "question": 7,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Mistral",
+        "second": "Llama3",
+        "question": 1,
+        "winner": "Mistral"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Gemma",
+        "question": 2,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Mistral",
+        "question": 7,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Llama3",
+        "question": 18,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Gemma",
+        "second": "Zephyr",
+        "question": 18,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Snorkel",
+        "question": 1,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Llama3",
+        "second": "StarlingCode",
+        "question": 3,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Qwen",
+        "question": 13,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Qwen",
+        "second": "Gemma",
+        "question": 5,
+        "winner": "Qwen"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Gemma",
+        "question": 8,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Llama3",
+        "second": "Snorkel",
+        "question": 5,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Mistral",
+        "second": "StarlingCode",
+        "question": 13,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Vicuna",
+        "second": "OpenChat",
+        "question": 5,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Starling",
+        "question": 18,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Gemma",
+        "second": "Vicuna",
+        "question": 5,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Zephyr",
+        "second": "StarlingCode",
+        "question": 5,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Mistral",
+        "second": "Vicuna",
+        "question": 13,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Gemma",
+        "second": "Starling",
+        "question": 18,
+        "winner": "Starling"
+    },
+    {
+        "first": "Snorkel",
+        "second": "StarlingCode",
+        "question": 2,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Llama3",
+        "question": 18,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Vicuna",
+        "question": 1,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Llama3",
+        "second": "StarlingCode",
+        "question": 1,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Llama3",
+        "second": "Vicuna",
+        "question": 18,
+        "winner": "Llama3"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Snorkel",
+        "question": 7,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Llama3",
+        "question": 18,
+        "winner": "None"
+    },
+    {
+        "first": "Mistral",
+        "second": "OpenChat",
+        "question": 13,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Starling",
+        "question": 5,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Snorkel",
+        "question": 13,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Starling",
+        "second": "Vicuna",
+        "question": 8,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Zephyr",
+        "question": 3,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Mistral",
+        "question": 7,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Starling",
+        "second": "Llama3",
+        "question": 5,
+        "winner": "Starling"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Gemma",
+        "question": 1,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Llama3",
+        "question": 6,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Zephyr",
+        "second": "OpenChat",
+        "question": 1,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Llama3",
+        "second": "Starling",
+        "question": 8,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Llama3",
+        "second": "StarlingCode",
+        "question": 8,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Qwen",
+        "second": "Mistral",
+        "question": 2,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Starling",
+        "second": "Qwen",
+        "question": 2,
+        "winner": "Starling"
+    },
+    {
+        "first": "Llama3",
+        "second": "Gemma",
+        "question": 1,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Mistral",
+        "second": "OpenChat",
+        "question": 8,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Mistral",
+        "second": "Zephyr",
+        "question": 8,
+        "winner": "Mistral"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Llama3",
+        "question": 8,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "OpenChat",
+        "question": 2,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Starling",
+        "question": 2,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Snorkel",
+        "question": 7,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Vicuna",
+        "question": 8,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Mistral",
+        "question": 5,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Mistral",
+        "question": 9,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Snorkel",
+        "question": 2,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Starling",
+        "question": 2,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Mistral",
+        "second": "Gemma",
+        "question": 17,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Snorkel",
+        "second": "StarlingCode",
+        "question": 1,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Gemma",
+        "second": "Snorkel",
+        "question": 13,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Llama3",
+        "second": "StarlingCode",
+        "question": 5,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Mistral",
+        "second": "Gemma",
+        "question": 9,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Snorkel",
+        "second": "OpenChat",
+        "question": 18,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Gemma",
+        "second": "Llama3",
+        "question": 18,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Starling",
+        "second": "Zephyr",
+        "question": 2,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Starling",
+        "question": 13,
+        "winner": "Starling"
+    },
+    {
+        "first": "Mistral",
+        "second": "Llama3",
+        "question": 5,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Mistral",
+        "second": "Vicuna",
+        "question": 2,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Gemma",
+        "second": "StarlingCode",
+        "question": 13,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Qwen",
+        "second": "OpenChat",
+        "question": 7,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Gemma",
+        "second": "Mistral",
+        "question": 1,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Gemma",
+        "second": "Mistral",
+        "question": 3,
+        "winner": "Gemma"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Gemma",
+        "question": 18,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Gemma",
+        "question": 13,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Llama3",
+        "question": 6,
+        "winner": "Llama3"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Zephyr",
+        "question": 1,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Snorkel",
+        "question": 8,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Vicuna",
+        "question": 5,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Gemma",
+        "second": "OpenChat",
+        "question": 5,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Mistral",
+        "second": "StarlingCode",
+        "question": 2,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Qwen",
+        "second": "Mistral",
+        "question": 18,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Gemma",
+        "second": "Zephyr",
+        "question": 3,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Qwen",
+        "question": 18,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Mistral",
+        "question": 18,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Gemma",
+        "second": "Vicuna",
+        "question": 2,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Qwen",
+        "second": "Gemma",
+        "question": 1,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Llama3",
+        "second": "Vicuna",
+        "question": 13,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Qwen",
+        "second": "Starling",
+        "question": 2,
+        "winner": "Starling"
+    },
+    {
+        "first": "Gemma",
+        "second": "Qwen",
+        "question": 8,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Starling",
+        "question": 8,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Mistral",
+        "second": "Snorkel",
+        "question": 1,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Snorkel",
+        "question": 8,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Gemma",
+        "question": 18,
+        "winner": "Gemma"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Mistral",
+        "question": 1,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Gemma",
+        "second": "Snorkel",
+        "question": 1,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Qwen",
+        "second": "OpenChat",
+        "question": 8,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Llama3",
+        "second": "Mistral",
+        "question": 8,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Mistral",
+        "second": "Starling",
+        "question": 8,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Vicuna",
+        "question": 2,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Gemma",
+        "second": "Mistral",
+        "question": 9,
+        "winner": "Mistral"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Vicuna",
+        "question": 5,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Snorkel",
+        "question": 18,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Zephyr",
+        "question": 5,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Mistral",
+        "second": "Starling",
+        "question": 13,
+        "winner": "Mistral"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Mistral",
+        "question": 5,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Starling",
+        "question": 5,
+        "winner": "Starling"
+    },
+    {
+        "first": "Gemma",
+        "second": "Starling",
+        "question": 6,
+        "winner": "Starling"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "OpenChat",
+        "question": 5,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Snorkel",
+        "question": 5,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Mistral",
+        "second": "Vicuna",
+        "question": 7,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Mistral",
+        "second": "StarlingCode",
+        "question": 18,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Starling",
+        "second": "Gemma",
+        "question": 1,
+        "winner": "Starling"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Mistral",
+        "question": 9,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Llama3",
+        "second": "OpenChat",
+        "question": 1,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Qwen",
+        "second": "Mistral",
+        "question": 1,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Gemma",
+        "second": "Vicuna",
+        "question": 1,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Gemma",
+        "second": "Starling",
+        "question": 7,
+        "winner": "Gemma"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Gemma",
+        "question": 3,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Mistral",
+        "second": "Vicuna",
+        "question": 8,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Snorkel",
+        "question": 18,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Starling",
+        "second": "OpenChat",
+        "question": 8,
+        "winner": "Starling"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Vicuna",
+        "question": 5,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Llama3",
+        "question": 5,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Qwen",
+        "second": "Vicuna",
+        "question": 1,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Qwen",
+        "second": "Snorkel",
+        "question": 1,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Snorkel",
+        "question": 2,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "OpenChat",
+        "second": "StarlingCode",
+        "question": 3,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Llama3",
+        "question": 6,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Snorkel",
+        "question": 5,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Zephyr",
+        "question": 8,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Vicuna",
+        "question": 18,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Qwen",
+        "question": 2,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Llama3",
+        "second": "Mistral",
+        "question": 5,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Llama3",
+        "second": "OpenChat",
+        "question": 18,
+        "winner": "Llama3"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "OpenChat",
+        "question": 1,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Gemma",
+        "question": 2,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Zephyr",
+        "second": "OpenChat",
+        "question": 3,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Qwen",
+        "question": 13,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Gemma",
+        "second": "Qwen",
+        "question": 6,
+        "winner": "Qwen"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Snorkel",
+        "question": 5,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Vicuna",
+        "second": "StarlingCode",
+        "question": 13,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Llama3",
+        "question": 13,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Qwen",
+        "question": 2,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Qwen",
+        "question": 2,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Gemma",
+        "question": 1,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Llama3",
+        "question": 8,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Llama3",
+        "second": "Gemma",
+        "question": 13,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Starling",
+        "second": "Gemma",
+        "question": 2,
+        "winner": "Starling"
+    },
+    {
+        "first": "Zephyr",
+        "second": "StarlingCode",
+        "question": 2,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Zephyr",
+        "question": 18,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Zephyr",
+        "question": 3,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Gemma",
+        "question": 18,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Starling",
+        "second": "Llama3",
+        "question": 8,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Mistral",
+        "second": "Zephyr",
+        "question": 1,
+        "winner": "Mistral"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Starling",
+        "question": 7,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Mistral",
+        "second": "Qwen",
+        "question": 8,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Vicuna",
+        "question": 8,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Qwen",
+        "second": "StarlingCode",
+        "question": 13,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Llama3",
+        "second": "Starling",
+        "question": 5,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Qwen",
+        "second": "Starling",
+        "question": 8,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Mistral",
+        "second": "Gemma",
+        "question": 1,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Mistral",
+        "second": "Gemma",
+        "question": 18,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Zephyr",
+        "question": 3,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Starling",
+        "second": "StarlingCode",
+        "question": 2,
+        "winner": "Starling"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Gemma",
+        "question": 5,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Mistral",
+        "question": 8,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Gemma",
+        "second": "OpenChat",
+        "question": 9,
+        "winner": "Gemma"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Mistral",
+        "question": 2,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Vicuna",
+        "question": 2,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Qwen",
+        "question": 1,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Llama3",
+        "second": "Gemma",
+        "question": 6,
+        "winner": "Llama3"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Vicuna",
+        "question": 2,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Starling",
+        "second": "StarlingCode",
+        "question": 18,
+        "winner": "Starling"
+    },
+    {
+        "first": "Gemma",
+        "second": "Starling",
+        "question": 1,
+        "winner": "Starling"
+    },
+    {
+        "first": "Vicuna",
+        "second": "OpenChat",
+        "question": 8,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Starling",
+        "second": "Llama3",
+        "question": 2,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Starling",
+        "second": "OpenChat",
+        "question": 18,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Starling",
+        "second": "OpenChat",
+        "question": 1,
+        "winner": "Starling"
+    },
+    {
+        "first": "Llama3",
+        "second": "Zephyr",
+        "question": 2,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Llama3",
+        "second": "Zephyr",
+        "question": 3,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Gemma",
+        "second": "Snorkel",
+        "question": 3,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Mistral",
+        "question": 18,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Snorkel",
+        "second": "OpenChat",
+        "question": 5,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Mistral",
+        "second": "Gemma",
+        "question": 2,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Qwen",
+        "question": 5,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "OpenChat",
+        "second": "StarlingCode",
+        "question": 8,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Mistral",
+        "second": "Snorkel",
+        "question": 13,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Qwen",
+        "second": "Vicuna",
+        "question": 13,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Llama3",
+        "question": 1,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Llama3",
+        "second": "OpenChat",
+        "question": 13,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Mistral",
+        "question": 13,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Snorkel",
+        "question": 1,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Starling",
+        "second": "Llama3",
+        "question": 7,
+        "winner": "Starling"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Gemma",
+        "question": 1,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Llama3",
+        "second": "Gemma",
+        "question": 2,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Llama3",
+        "second": "OpenChat",
+        "question": 7,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Starling",
+        "question": 1,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Gemma",
+        "second": "Llama3",
+        "question": 8,
+        "winner": "Gemma"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Starling",
+        "question": 2,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Qwen",
+        "second": "StarlingCode",
+        "question": 1,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Starling",
+        "second": "Qwen",
+        "question": 1,
+        "winner": "Starling"
+    },
+    {
+        "first": "Qwen",
+        "second": "Mistral",
+        "question": 5,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Starling",
+        "second": "StarlingCode",
+        "question": 5,
+        "winner": "Starling"
+    },
+    {
+        "first": "Starling",
+        "second": "Qwen",
+        "question": 13,
+        "winner": "Qwen"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Gemma",
+        "question": 1,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Mistral",
+        "question": 8,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Llama3",
+        "second": "Snorkel",
+        "question": 8,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Qwen",
+        "second": "StarlingCode",
+        "question": 18,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Vicuna",
+        "question": 18,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Mistral",
+        "question": 2,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "Mistral",
+        "second": "Qwen",
+        "question": 7,
+        "winner": "Mistral"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Gemma",
+        "question": 6,
+        "winner": "StarlingCode"
+    },
+    {
+        "first": "Gemma",
+        "second": "OpenChat",
+        "question": 3,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Qwen",
+        "second": "Gemma",
+        "question": 6,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Llama3",
+        "second": "Snorkel",
+        "question": 2,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Starling",
+        "second": "Mistral",
+        "question": 1,
+        "winner": "Starling"
+    },
+    {
+        "first": "Vicuna",
+        "second": "Starling",
+        "question": 1,
+        "winner": "Vicuna"
+    },
+    {
+        "first": "OpenChat",
+        "second": "StarlingCode",
+        "question": 1,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Mistral",
+        "second": "Zephyr",
+        "question": 2,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Starling",
+        "question": 8,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Qwen",
+        "second": "OpenChat",
+        "question": 2,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "OpenChat",
+        "second": "Vicuna",
+        "question": 7,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Llama3",
+        "second": "Mistral",
+        "question": 2,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Llama3",
+        "second": "Gemma",
+        "question": 5,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Mistral",
+        "second": "Vicuna",
+        "question": 18,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Llama3",
+        "second": "Gemma",
+        "question": 9,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Mistral",
+        "second": "Zephyr",
+        "question": 5,
+        "winner": "Mistral"
+    },
+    {
+        "first": "Mistral",
+        "second": "Llama3",
+        "question": 8,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Llama3",
+        "second": "Zephyr",
+        "question": 5,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Gemma",
+        "question": 6,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Gemma",
+        "question": 8,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Llama3",
+        "question": 8,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Llama3",
+        "second": "Mistral",
+        "question": 1,
+        "winner": "Llama3"
+    },
+    {
+        "first": "StarlingCode",
+        "second": "Qwen",
+        "question": 18,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Zephyr",
+        "second": "StarlingCode",
+        "question": 1,
+        "winner": "Zephyr"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Gemma",
+        "question": 3,
+        "winner": "Gemma"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Llama3",
+        "question": 8,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Llama3",
+        "second": "OpenChat",
+        "question": 8,
+        "winner": "Llama3"
+    },
+    {
+        "first": "Snorkel",
+        "second": "StarlingCode",
+        "question": 8,
+        "winner": "Snorkel"
+    }
+]

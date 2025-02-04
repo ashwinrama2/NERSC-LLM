@@ -1,0 +1,32 @@
+[
+    {
+        "first": "Llama3",
+        "second": "OpenChat",
+        "question": 5,
+        "winner": "OpenChat"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Vicuna",
+        "question": 1,
+        "winner": "Snorkel"
+    },
+    {
+        "first": "Zephyr",
+        "second": "Qwen",
+        "question": 18,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Qwen",
+        "second": "Llama3",
+        "question": 13,
+        "winner": "Qwen"
+    },
+    {
+        "first": "Snorkel",
+        "second": "Qwen",
+        "question": 13,
+        "winner": "Snorkel"
+    }
+]

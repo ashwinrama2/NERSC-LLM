@@ -1,0 +1,50 @@
+name: chatbot
+channels:
+  - pytorch
+  - nvidia
+  - huggingface
+  - xformers
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - faiss-cpu~=1.8.0  # CPU version of the FAISS library for efficient similarity search
+  - sentence-transformers~=2.5.0  # For generating sentence embeddings
+  - rich~=13.7.0  # Rich text and formatting in the terminal
+  - pytorch=2.3.0 # exact version needed for vllm
+  - pytorch-cuda=12.1 # pytorch
+  - cuda-toolkit=12.1 # corresponding cuda-toolkit
+  - xformers=0.0.26.post1 # exact version needed for vllm
+  - huggingface_hub
+  - transformers
+  - accelerate
+  - protobuf
+  - aiohttp # async http requests
+  - whoosh # search engine (not currently used)
+  - gensim # text comparison
+  - pip:
+    - sfapi_client~=0.0.6 # Python client for NERSC SF API
+    - vllm # NOTE: this bundles its own compatible pytorch+cuda
+    - vllm-flash-attn==2.5.8.post2 # flash-attention2
+prefix: /global/cfs/cdirs/nstaff/chatbot/conda/chatbot
+# use the following to check that you have a GPU version of Pytorch:
+# conda list pytorch
+#
+# be careful about the vLLM requirements:
+# https://github.com/vllm-project/vllm/blob/main/requirements-cuda.txt
+#
+# creating the environment:
+# conda env create --prefix /global/cfs/cdirs/nstaff/chatbot/conda/chatbot --file environment.yml
+#
+# modules used:
+# module load python/3.10 cudatoolkit/12.0 cudnn/8.9.3_cuda12 pytorch/2.1.0-cu12
+#
+# to activate the environment:
+# conda activate /global/cfs/cdirs/nstaff/chatbot/conda/chatbot
+#
+# to update the environment:
+# conda env update --prefix /global/cfs/cdirs/nstaff/chatbot/conda/chatbot --file environment.yml --prune
+
+# you can also use our shifer container to load everything:
+# shifter --module=gpu,nccl-2.18 --image=asnaylor/lmntfy:v0.3 /bin/bash

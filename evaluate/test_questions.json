@@ -1,0 +1,22 @@
+{
+    "1": "How can I join the NUG Slack workspace?",
+    "2": "Where can users go to open support tickets and make resource requests?",
+    "3": "What QOS should I be using if I just want to run a short job on a GPU?",
+    "4": "For a Slurm job, what are the mandatory flags and optional flags?",
+    "5": "What is the purpose of the High Performance Storage System (HPSS)?",
+    "6": "Where do I find gcc in my filepath?",
+    "7": "How do I use sshproxy?",
+    "8": "I want to unsubscribe from the NERSC users email list. How can I do this?",
+    "9": "How can I connect to Perlmutter?",
+    "10": "How can I install and use a library that currently does not exist on Perlmutter?",
+    "11": "Where can I view my active and previous job statuses?",
+    "12": "My job keeps getting killed before finishing. I tested that there are no errors. Why?",
+    "13": "How do I kill all of my jobs?",
+    "14": "How can I run a job on a CPU?",
+    "15": "Do I need a VPN to access Perlmutter if I am offsite? Or can I just ssh into it?",
+    "16": "If my project runs out of time, can I still run jobs?",
+    "17": "How do I write a script to submit a job to Perlmutter?",
+    "18": "How do I set up MFA?",
+    "19": "Why can’t I log in?",
+    "20": "Which file system should I use to store my data?"
+}

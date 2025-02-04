@@ -81,5 +81,12 @@ In no particular order:
         scaling the service to production throughputs
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/ashwinrama2">
+        <img src="https://github.com/ashwinrama2.png" width="60" height="60" alt="Ashwin Ramaswamy" /><br>
+        <a href="https://github.com/ashwinrama2">Ashwin Ramaswamy</a><br>
+        LLM-as-a-Judge experiments for alignment and human preferences
+      </a>
+    </td>
   </tr>
 </table>
